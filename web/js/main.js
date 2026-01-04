@@ -1,3 +1,5 @@
+// MADE BY MOTION SCRIPTS
+
 import { createOptions, resetOptionCount } from "./createOptions.js";
 import { fetchNui } from "./fetchNui.js";
 
