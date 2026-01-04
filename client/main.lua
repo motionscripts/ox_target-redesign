@@ -1,3 +1,5 @@
+-- MADE BY MOTION SCRIPTS - https://discord.gg/WRR8q8XYfT
+
 if not lib.checkDependency('ox_lib', '3.21.0', true) then return end
 
 lib.locale()
