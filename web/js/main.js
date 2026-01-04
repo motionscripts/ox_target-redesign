@@ -1,4 +1,4 @@
-// MADE BY MOTION SCRIPTS
+// MADE BY MOTION SCRIPTS - https://discord.gg/WRR8q8XYfT
 
 import { createOptions, resetOptionCount } from "./createOptions.js";
 import { fetchNui } from "./fetchNui.js";
