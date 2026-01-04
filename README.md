@@ -16,6 +16,12 @@ Designed to feel **snappy, intuitive, and lightweight**, this redesign keeps the
 
 ---
 
+## 📹 Demo / Preview
+▶️ **Watch it in action:**  
+https://www.youtube.com/watch?v=3IMx56KNKTs
+
+---
+
 ## 📦 Installation
 1. **Drag & drop** this redesign into your existing `ox_target` resource  
 2. Restart the resource  
